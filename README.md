@@ -1,17 +1,9 @@
 <p align="center">
-  <a href="https://github.com/RyanBrew/opal">
+  <a href="https://cdn.discordapp.com/attachments/873367287304978462/875194731188088872/logomark.png">
     <img src="opal_logo.png" alt="Logo" width="128" height="128">
   </a>
   
-  <h3 align="center">Opal Discord Bot</h3>
-
-  <p align="center">
-    A 100% free and open source group assistant
-    <br />
-    <a href="https://github.com/ryanbrwr/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ryanbrwr/issues">Request Feature</a>
-  </p>
+  <h2 align="center">Kline Accounts Landing Page</h2>
 </p>
 
 ![image](https://user-images.githubusercontent.com/63136967/130311587-faa0ce3c-9bb0-4e87-ba66-971e3743b4e9.png)
