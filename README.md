@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cdn.discordapp.com/attachments/873367287304978462/875194731188088872/logomark.png">
-    <img src="opal_logo.png" alt="Logo" width="128" height="128">
+    <img src="https://cdn.discordapp.com/attachments/873367287304978462/875194731188088872/logomark.png" alt="Logo" width="128" height="128">
   </a>
   
   <h2 align="center">Kline Accounts Landing Page</h2>
@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/63136967/130311587-faa0ce3c-9bb0-4e87-ba66-971e3743b4e9.png)
 
-# KlineAccounts
+# About this project
 A landing page for my client at Kline Account which specialises in user-generated accounts.
 
 ***
