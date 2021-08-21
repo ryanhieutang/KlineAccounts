@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://cdn.discordapp.com/attachments/873367287304978462/875194731188088872/logomark.png">
-    <img src="https://cdn.discordapp.com/attachments/873367287304978462/875194731188088872/logomark.png" alt="Logo" width="128" height="128">
+    <img src="https://cdn.discordapp.com/attachments/873367287304978462/875194731188088872/logomark.png" alt="Logo">
   </a>
   
   <h2 align="center">Kline Accounts Landing Page</h2>
