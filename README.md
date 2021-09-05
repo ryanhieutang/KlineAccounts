@@ -13,7 +13,7 @@ Please show your support by reacting with `watch` or ⭐
 
 ### Built With
 
-* [Node.js](https://www.javascript.com/)
+* [Node.js](https://nodejs.org/)
 * [tilt.js](https://micku7zu.github.io/vanilla-tilt.js/)
 
 ***
