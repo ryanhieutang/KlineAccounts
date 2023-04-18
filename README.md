@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://cdn.discordapp.com/attachments/873367287304978462/875194731188088872/logomark.png">
-    <img src="https://cdn.discordapp.com/attachments/873367287304978462/875194731188088872/logomark.png" alt="Logo" width="50px">
+  <a href="https://pbs.twimg.com/profile_images/1496228455347851272/8-5xO_Og_400x400.jpg">
+    <img src="https://pbs.twimg.com/profile_images/1496228455347851272/8-5xO_Og_400x400.jpg" alt="Logo" width="50px">
   </a>
   
   <h3 align="center">Kline Accounts Landing Page</h3>
@@ -13,8 +13,8 @@ Please show your support by reacting with `watch` or ⭐
 
 ### Built With
 
-* [Node.js](https://nodejs.org/)
-* [tilt.js](https://micku7zu.github.io/vanilla-tilt.js/)
+* HTML + CSS
+* Javascript
 
 ***
 # **I. Hero**
